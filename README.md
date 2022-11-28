@@ -13,9 +13,11 @@ Passo 4: Importar o arquivo <b>products.sql</b> para criar a tabela
 
 Passo 5: Modificar a linha 5 do arquivo <b>productsModel.php</b> e informar host, usuário, senha e nome do BD
 
-Passo 6: Visualizar no servidor (http://localhost/apiproducts/)
+Passo 6: Modificar a linha 5 do arquivo <b>clientsModel.php</b> e informar host, usuário, senha e nome do BD
 
-Passo 7: Utilizar alguma plataforma para testar APIs (Insomnia/Postman/HTTPie)
+Passo 7: Visualizar no servidor (http://localhost/apiproducts/)
+
+Passo 8: Utilizar alguma plataforma para testar APIs (Insomnia/Postman/HTTPie)
 
 ## Colunas
 - id 
